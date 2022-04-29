@@ -22,13 +22,13 @@
 
 <img src="Programming Theory Project/Gifs for Git/gameplay.gif" width="250"/> <img src="Counting Prototype/Gifs for Git/gameplay.gif" width="250"/>
 
-<h4 align="center">
+<h4 align="left">
  Programming Theory Project | Counting Prototype             
 <h4/>
   
 <img src="FlowManagement/Gifs for Git/gameplay.gif" width="250"/>  <img src="DataPersistence/Gifs for Git/gameplay.gif" width="250"/> 
 
-<h4 align="center">
+<h4 align="left">
  Flow Management | Data Persistence           
 <h4/>
 
