@@ -1,6 +1,6 @@
 # Unity Projects
  
-## This repo contains unity's projects for my lessons and projects of my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses and there's my own creations as well. 
+## This repo contains unity's projects for my lessons and projects of my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and there's my own creations as well. 
 
 <p align="left"> <img src="Adventure3D/Gifs for Git/gameplay.gif" width="250"/> <align="center"> <img src="Happy Birds/Gifs for Git/gameplay.gif" width="250"/> <align="right"> <img src="Shoot-emUp/Gifs for Git/Demo1.gif" width="200"/>
 
@@ -38,7 +38,7 @@
 I preferred to keep one repo for all my valued projects in one place. But you can check them out on their own git repo, where there's an individual readme file for each one. 
  
  
-* [Adventure 3D](#Adventure-3D)  
+* [Adventure 3D][3]  
 * [Happy Birds](#AHappy-Birds) 
 * [Shoot'em Up](#Shoot'em-Up) 
 * [Flap Bird 3D](#Flap-Bird-3D) 
@@ -52,20 +52,6 @@ I preferred to keep one repo for all my valued projects in one place. But you ca
 * [Flow Management](#Flow-Management) 
 * [Data Persistence](#Data-Persistence) 
  
- 
-## Adventure 3D 
-## Happy Birds
-## Shoot'em Up
-## Flap Bird 3D
-## Flap Bird
-## Unit 5
-## Unit 2
-## Unit 3
-## Unit 4
-## Programming Theory Project
-## Counting Prototype
-## Flow Management
-## Data Persistence
- 
-
 [1]: https://learn.unity.com/
+[2]: https://www.udemy.com/course/curso-completo-unity-3d/ 
+[3]: https://github.com/ThicosGroove/Adventure3D 
