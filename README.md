@@ -39,18 +39,18 @@ I preferred to keep one repo for all my valued projects in one place. But you ca
  
  
 * [Adventure 3D][3]  
-* [Happy Birds](#AHappy-Birds) 
-* [Shoot'em Up](#Shoot'em-Up) 
-* [Flap Bird 3D](#Flap-Bird-3D) 
-* [Flap Bird](#Flap-Bird) 
-* [Unit 5](#Unit-5) 
-* [Unit 2](#Unit-2) 
-* [Unit 3](#Unit-3) 
-* [Unit 4](#Unit-4) 
-* [Programming Theory Project](#Programming-Theory-Project) 
-* [Counting Prototype](#Counting-Prototype) 
-* [Flow Management](#Flow-Management) 
-* [Data Persistence](#Data-Persistence) 
+* [Happy Birds][4]
+* [Shoot'em Up][5] 
+* [Flap Bird 3D][6] 
+* [Flap Bird][7] 
+* [Unit 5][8]
+* [Unit 2][9]
+* Unit 3 
+* [Unit 4][10] 
+* [Programming Theory Project][11] 
+* Counting Prototype
+* Flow Management 
+* Data Persistence
  
 [1]: https://learn.unity.com/
 [2]: https://www.udemy.com/course/curso-completo-unity-3d/ 
@@ -60,3 +60,6 @@ I preferred to keep one repo for all my valued projects in one place. But you ca
 [6]: https://github.com/ThicosGroove/Flap-Bird-3D
 [7]: https://github.com/ThicosGroove/Flap-Bird
 [8]: https://github.com/ThicosGroove/Fruit-Ninja-3D 
+[9]: https://github.com/ThicosGroove/Infinity-Run
+[10]: https://github.com/ThicosGroove/Ball-game
+[11]: https://github.com/ThicosGroove/Programming-Theory-Project
