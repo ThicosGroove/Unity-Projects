@@ -32,8 +32,8 @@
  Flow Management | Data Persistence           
 <h4/>
 
- 
-# Here are the list in order. All of them are part of some sort of lesson i took, but in some cases i got carried away and end up making a full featured game 😅
+--- 
+## Here are the list in order. All of them are part of some sort of lesson i took, but in some cases i got carried away and end up making a full featured game 😅
  
 I preferred to keep one repo for all my valued projects in one place. But you can check them out on their own git repo, where there's an individual readme file for each one. 
  
@@ -54,4 +54,9 @@ I preferred to keep one repo for all my valued projects in one place. But you ca
  
 [1]: https://learn.unity.com/
 [2]: https://www.udemy.com/course/curso-completo-unity-3d/ 
-[3]: https://github.com/ThicosGroove/Adventure3D 
+[3]: https://github.com/ThicosGroove/Adventure3D
+[4]: https://github.com/ThicosGroove/Happy-Birds
+[5]: https://github.com/ThicosGroove/Shot-emUp
+[6]: https://github.com/ThicosGroove/Flap-Bird-3D
+[7]: https://github.com/ThicosGroove/Flap-Bird
+[8]: https://github.com/ThicosGroove/Fruit-Ninja-3D 
