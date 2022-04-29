@@ -5,7 +5,7 @@
 <p align="left"> <img src="Adventure3D/Gifs for Git/gameplay.gif" width="250"/> <align="center"> <img src="Happy Birds/Gifs for Git/gameplay.gif" width="250"/> <align="right"> <img src="Shoot-emUp/Gifs for Git/Demo1.gif" width="200"/>
 
 <h4 align="center">
-  [Adventure 3D](#Adventure-3D)  | Happy Birds | Shoot'em Up               
+  [Adventure 3D](#Adventure-3D)   Happy Birds  Shoot'em Up               
 <h4/>
 
 <img src="FlapBird3D/Gifs for Git/gameplay.gif" width="250"/> <img src="Flap Bird/Gifs for Git/gameplay.gif" width="250"/> <img src="Unit 5/Gifs for Git/gameplay.gif" width="250"/>
