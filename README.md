@@ -9,14 +9,28 @@
 <h4/>
 
 <img src="FlapBird3D/Gifs for Git/gameplay.gif" width="250"/> <img src="Flap Bird/Gifs for Git/gameplay.gif" width="250"/> <img src="Unit 5/Gifs for Git/gameplay.gif" width="250"/>
+ 
+ <h4 align="center">
+  Flap Bird 3D | Flap Bird | Unit 5               
+<h4/>
 
 <img src="Unit 2/Gifs for git/gameplay.gif" width="250"/> <img src="Unit 3/Gifs for Git/gameplay.gif" width="250"/> <img src="Unit 4/Gifs for Git/gameplay.gif" width="250"/>
+  
+<h4 align="center">
+ Unit 2 | Unit 3 | Unit 4               
+<h4/>
 
 <img src="Programming Theory Project/Gifs for Git/gameplay.gif" width="250"/> <img src="Counting Prototype/Gifs for Git/gameplay.gif" width="250"/>
 
+<h4 align="center">
+ Programming Theory Project | Counting Prototype             
+<h4/>
+  
 <img src="FlowManagement/Gifs for Git/gameplay.gif" width="250"/>  <img src="DataPersistence/Gifs for Git/gameplay.gif" width="250"/> 
 
-
+<h4 align="center">
+ Flow Management | Data Persistence           
+<h4/>
 
 
 [1]: https://learn.unity.com/
