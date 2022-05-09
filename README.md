@@ -1,6 +1,6 @@
 # Unity Projects
  
-## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2]. Furthermore some of my own creations have been included as well. 
+## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and [Dunki Code][13]. Furthermore some of my own creations have been included as well. 
 
 <p align="left"> <img src="Adventure3D/Gifs for Git/gameplay.gif" width="250"/> <align="center"> <img src="Happy Birds/Gifs for Git/gameplay.gif" width="250"/> <align="right"> <img src="Shoot-emUp/Gifs for Git/Demo1.gif" width="200"/>
 
@@ -65,3 +65,4 @@ I chose to keep one repo for all my valued projects in one place. But you can ch
 [11]: https://github.com/ThicosGroove/Programming-Theory-Project
 [13]: https://github.com/ThicosGroove/FlowManagement
 [12]: https://github.com/ThicosGroove/Counting-Prototype 
+[13]: https://cursos.dankicode.com/
