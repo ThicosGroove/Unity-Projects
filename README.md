@@ -1,7 +1,13 @@
 # Unity Projects
  
-## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and [Dunki Code][13]. Furthermore some of my own creations have been included as well. 
+## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and [Dunki Code][3]. Furthermore some of my own creations have been included as well. 
 
+
+<p align="left"> <img src="New Plataform 2D/Gifs for Git/gameplay.gif" width="250"/>
+ <h4 align="left">
+  new plataform 2D              
+<h4/>
+ 
 <p align="left"> <img src="Adventure3D/Gifs for Git/gameplay.gif" width="250"/> <align="center"> <img src="Happy Birds/Gifs for Git/gameplay.gif" width="250"/> <align="right"> <img src="Shoot-emUp/Gifs for Git/Demo1.gif" width="200"/>
 
 <h4 align="center">
@@ -37,32 +43,36 @@
  
 I chose to keep one repo for all my valued projects in one place. But you can check them out on their own git repo, where there's an individual readme file for each of them. 
  
- 
-* [Adventure 3D][3]  
-* [Happy Birds][4]
-* [Shoot'em Up][5] 
-* [Flap Bird 3D][6] 
-* [Flap Bird][7] 
-* [Unit 5][8]
-* [Unit 2][9]
+* [New Plataform 2D][4]
+* [Adventure 3D][5]  
+* [Happy Birds][6]
+* [Shoot'em Up][7] 
+* [Flap Bird 3D][8] 
+* [Flap Bird][9] 
+* [Unit 5][10]
+* [Unit 2][11]
 * Unit 3 
-* [Unit 4][10] 
-* [Programming Theory Project][11] 
-* [Counting Prototype][12]
-* [Flow Management][13] 
+* [Unit 4][12] 
+* [Programming Theory Project][13] 
+* [Counting Prototype][14]
+* [Flow Management][15] 
 * Data Persistence
  
 [1]: https://learn.unity.com/
 [2]: https://www.udemy.com/course/curso-completo-unity-3d/ 
-[3]: https://github.com/ThicosGroove/Adventure3D
-[4]: https://github.com/ThicosGroove/Happy-Birds
-[5]: https://github.com/ThicosGroove/Shot-emUp
-[6]: https://github.com/ThicosGroove/Flap-Bird-3D
-[7]: https://github.com/ThicosGroove/Flap-Bird
-[8]: https://github.com/ThicosGroove/Fruit-Ninja-3D 
-[9]: https://github.com/ThicosGroove/Infinity-Run
-[10]: https://github.com/ThicosGroove/Ball-game
-[11]: https://github.com/ThicosGroove/Programming-Theory-Project
-[13]: https://github.com/ThicosGroove/FlowManagement
-[12]: https://github.com/ThicosGroove/Counting-Prototype 
-[13]: https://cursos.dankicode.com/
+[3]: https://cursos.dankicode.com/
+ 
+[4]: https://github.com/ThicosGroove/New-Plataform-2D
+[5]: https://github.com/ThicosGroove/Adventure3D
+[6]: https://github.com/ThicosGroove/Happy-Birds
+[7]: https://github.com/ThicosGroove/Shot-emUp
+[8]: https://github.com/ThicosGroove/Flap-Bird-3D
+[9]: https://github.com/ThicosGroove/Flap-Bird
+[10]: https://github.com/ThicosGroove/Fruit-Ninja-3D 
+[11]: https://github.com/ThicosGroove/Infinity-Run
+[12]: https://github.com/ThicosGroove/Ball-game
+[13]: https://github.com/ThicosGroove/Programming-Theory-Project
+[14]: https://github.com/ThicosGroove/Counting-Prototype 
+[15]: https://github.com/ThicosGroove/FlowManagement
+
+
