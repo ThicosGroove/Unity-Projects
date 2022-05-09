@@ -1,6 +1,6 @@
 # Unity Projects
  
-## This repo contains unity's projects for my lessons and projects of my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and there's my own creations as well. 
+## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2]. Furthermore some of my own creations have been included as well. 
 
 <p align="left"> <img src="Adventure3D/Gifs for Git/gameplay.gif" width="250"/> <align="center"> <img src="Happy Birds/Gifs for Git/gameplay.gif" width="250"/> <align="right"> <img src="Shoot-emUp/Gifs for Git/Demo1.gif" width="200"/>
 
@@ -33,9 +33,9 @@
 <h4/>
 
 --- 
-## Here are the list in order. All of them are part of some sort of lesson i took, but in some cases i got carried away and end up making a full featured game 😅
+## Here is the list organized respectively as it is displayed above. All of the items are part of a variety of knowledge I've acquired throughout the courses I've taken, even though in some cases I may have gotten carried away and ended up making a full featured game instead. 😅
  
-I preferred to keep one repo for all my valued projects in one place. But you can check them out on their own git repo, where there's an individual readme file for each one. 
+I chose to keep one repo for all my valued projects in one place. But you can check them out on their own git repo, where there's an individual readme file for each of them. 
  
  
 * [Adventure 3D][3]  
