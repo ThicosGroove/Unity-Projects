@@ -2,6 +2,8 @@
  
 ## This repo contains Unity's projects from my lessons and projects I've undertaken on my own. Many of them are part of [Unity learn patwhay][1], others are projects from many different courses like [Udemy][2] and [Dunki Code][3]. Furthermore some of my own creations have been included as well. 
 
+## You can play and download them on [itch.io/thicosgroove][16]. Avaliable for windows and android.
+
 
 <p align="left"> <img src="New Plataform 2D/Gifs for Git/gameplay.gif" width="250"/>
  <h4 align="left">
@@ -75,4 +77,5 @@ I chose to keep one repo for all my valued projects in one place. But you can ch
 [14]: https://github.com/ThicosGroove/Counting-Prototype 
 [15]: https://github.com/ThicosGroove/FlowManagement
 
+[16]: https://thicosgroove.itch.io/
 
