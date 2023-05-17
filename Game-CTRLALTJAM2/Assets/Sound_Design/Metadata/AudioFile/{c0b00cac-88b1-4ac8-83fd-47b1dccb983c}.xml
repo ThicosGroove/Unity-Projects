@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c0b00cac-88b1-4ac8-83fd-47b1dccb983c}">
+		<property name="assetPath">
+			<value>Sfx/Gameplay/Tiro Boss.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.396031746031746</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{999ed6fa-49d3-47b0-b338-b95bde52a7f4}</destination>
+		</relationship>
+	</object>
+</objects>

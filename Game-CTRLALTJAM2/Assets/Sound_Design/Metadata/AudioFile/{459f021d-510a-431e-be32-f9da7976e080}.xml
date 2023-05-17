@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{459f021d-510a-431e-be32-f9da7976e080}">
+		<property name="assetPath">
+			<value>Music/Mus_Vinhetas/Theme Vinheta Vitoria 230511 22h .wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.4000000000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{999ed6fa-49d3-47b0-b338-b95bde52a7f4}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{46c346bb-4797-4891-9229-f60fe8e88f1d}">
+		<property name="assetPath">
+			<value>Sfx/Gameplay/fottstep/Step 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.69802721088435371</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{999ed6fa-49d3-47b0-b338-b95bde52a7f4}</destination>
+		</relationship>
+	</object>
+</objects>

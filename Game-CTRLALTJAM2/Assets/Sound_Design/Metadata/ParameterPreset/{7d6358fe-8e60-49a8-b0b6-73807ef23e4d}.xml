@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7d6358fe-8e60-49a8-b0b6-73807ef23e4d}">
+		<property name="name">
+			<value>Stems_Menu</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f9b3e65a-4a2f-40f2-a3ce-cd0dd836c02b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a24ed20c-b95d-4628-acda-74aea282cf36}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a24ed20c-b95d-4628-acda-74aea282cf36}">
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

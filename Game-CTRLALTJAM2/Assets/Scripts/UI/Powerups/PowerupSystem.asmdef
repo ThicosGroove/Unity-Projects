@@ -1,0 +1,16 @@
+{
+    "name": "PowerupSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1452a69aa8d94c9449fdf217d504f87b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,597 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8164424970252297799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mus_boss
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mus_boss
+  Guid:
+    Data1: -2045854340
+    Data2: 1288993717
+    Data3: -924340597
+    Data4: 2131600492
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 96243
+--- !u!114 &-7237732206636974598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/music_vinheta
+  m_EditorClassIdentifier: 
+  Path: event:/Music/music_vinheta
+  Guid:
+    Data1: -1868812347
+    Data2: 1136033574
+    Data3: 1379618739
+    Data4: -1037238797
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9000
+--- !u!114 &-6832220797360492842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_raio_pp
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_raio_pp
+  Guid:
+    Data1: -187900274
+    Data2: 1082472458
+    Data3: -657959248
+    Data4: -174128629
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2792
+--- !u!114 &-6272831036825659947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_footstep
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_footstep
+  Guid:
+    Data1: -6172524
+    Data2: 1090423831
+    Data3: -1095892086
+    Data4: 1799527245
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 698
+--- !u!114 &-5726761666624991654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mus_vinheta_vitoria
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mus_vinheta_vitoria
+  Guid:
+    Data1: 1543778010
+    Data2: 1147850428
+    Data3: -1360182129
+    Data4: -1447507160
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5400
+--- !u!114 &-5049394528892647071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mus_menu_stems
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mus_menu_stems
+  Guid:
+    Data1: -1353078168
+    Data2: 1321981031
+    Data3: 350584230
+    Data4: -1562601905
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 43200
+--- !u!114 &-4503633763890459597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_power up
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_power up
+  Guid:
+    Data1: -1336349912
+    Data2: 1220551157
+    Data3: -1885904735
+    Data4: -1517764869
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2094
+--- !u!114 &-4306785727766319327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mus_gameplay
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mus_gameplay
+  Guid:
+    Data1: -966796131
+    Data2: 1303462629
+    Data3: 1690319005
+    Data4: -19756597
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 180800
+--- !u!114 &-2365522184234958721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_attack_pruu
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_attack_pruu
+  Guid:
+    Data1: 515753861
+    Data2: 1336940829
+    Data3: -1855709780
+    Data4: -1307329149
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1047
+--- !u!114 &-2020125613419087328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sound_Design/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638196044210000000
+  FileSizes:
+  - Name: Desktop
+    Value: 1930
+  Exists: 1
+--- !u!114 &-1734526768804941980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Menu/sfx_menu_confirma_play
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Menu/sfx_menu_confirma_play
+  Guid:
+    Data1: -1620310236
+    Data2: 1191797045
+    Data3: -794810225
+    Data4: -1456241094
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &-474337261343855021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_attack_inimigo
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_attack_inimigo
+  Guid:
+    Data1: 244138017
+    Data2: 1332525236
+    Data3: 436789660
+    Data4: 969496729
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1047
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -2020125613419087328}
+  - {fileID: 429947482049748986}
+  EditorEvents:
+  - {fileID: -5049394528892647071}
+  - {fileID: -8164424970252297799}
+  - {fileID: -4306785727766319327}
+  - {fileID: -474337261343855021}
+  - {fileID: -1734526768804941980}
+  - {fileID: -4503633763890459597}
+  - {fileID: 7911994070471159036}
+  - {fileID: 8629678235650007210}
+  - {fileID: 2122184256634479898}
+  - {fileID: 2210105055910203279}
+  - {fileID: 6925120185004937718}
+  - {fileID: 4943087462700838400}
+  - {fileID: -2365522184234958721}
+  - {fileID: -6832220797360492842}
+  - {fileID: -6272831036825659947}
+  - {fileID: 2079471816216981204}
+  - {fileID: 8214974647305411053}
+  - {fileID: -5726761666624991654}
+  - {fileID: -7237732206636974598}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 429947482049748986}
+  StringsBanks:
+  - {fileID: -2020125613419087328}
+  cacheTime: 638196072020000000
+  cacheVersion: 131603
+--- !u!114 &429947482049748986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sound_Design/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638196072020000000
+  FileSizes:
+  - Name: Desktop
+    Value: 6535168
+  Exists: 1
+--- !u!114 &2079471816216981204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_tiro_boss
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_tiro_boss
+  Guid:
+    Data1: -451965031
+    Data2: 1121097267
+    Data3: 951079090
+    Data4: 2059917481
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1396
+--- !u!114 &2122184256634479898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_tiro_titica
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_tiro_titica
+  Guid:
+    Data1: -720373460
+    Data2: 1297548761
+    Data3: -824618058
+    Data4: 521486898
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1221
+--- !u!114 &2210105055910203279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_tiro_titica forte
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_tiro_titica forte
+  Guid:
+    Data1: 2076498501
+    Data2: 1200696095
+    Data3: 452403384
+    Data4: -342034302
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1047
+--- !u!114 &4943087462700838400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/mus_vinheta_derrota
+  m_EditorClassIdentifier: 
+  Path: event:/Music/mus_vinheta_derrota
+  Guid:
+    Data1: 65484904
+    Data2: 1250565134
+    Data3: 633529238
+    Data4: -125458875
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6400
+--- !u!114 &6925120185004937718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_attack_boss
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_attack_boss
+  Guid:
+    Data1: -1675249324
+    Data2: 1136190854
+    Data3: -695285087
+    Data4: 1874702611
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1396
+--- !u!114 &7911994070471159036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_tiro2_pp
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_tiro2_pp
+  Guid:
+    Data1: 1247711785
+    Data2: 1264399083
+    Data3: -1893745258
+    Data4: -18039887
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 580
+--- !u!114 &8214974647305411053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Gameplay/sfx_tiro1_pp
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Gameplay/sfx_tiro1_pp
+  Guid:
+    Data1: -323125821
+    Data2: 1295829893
+    Data3: 152244405
+    Data4: 1140075626
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &8629678235650007210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Menu/sfx_menu_confirma
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Menu/sfx_menu_confirma
+  Guid:
+    Data1: -216531414
+    Data2: 1198468552
+    Data3: -1107916118
+    Data4: -1997455472
+  Banks:
+  - {fileID: 429947482049748986}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1030

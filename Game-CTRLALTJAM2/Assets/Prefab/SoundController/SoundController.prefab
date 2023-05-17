@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5494626383293342470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5494626383293342522}
+  - component: {fileID: 5494626383293342521}
+  - component: {fileID: 5494626383293342520}
+  - component: {fileID: 5494626383293342471}
+  m_Layer: 0
+  m_Name: SoundController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5494626383293342522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5494626383293342470}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1000.71027, y: 499.84375, z: 4.0918865}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5494626383293342521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5494626383293342470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attenuationObject: {fileID: 0}
+--- !u!114 &5494626383293342520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5494626383293342470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e1be23ea2742d45ba0073f820470d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <menuMusic>k__BackingField:
+    Guid:
+      Data1: -1353078168
+      Data2: 1321981031
+      Data3: 350584230
+      Data4: -1562601905
+    Path: event:/Music/mus_menu_stems
+  <gameplayMusic>k__BackingField:
+    Guid:
+      Data1: -966796131
+      Data2: 1303462629
+      Data3: 1690319005
+      Data4: -19756597
+    Path: event:/Music/mus_gameplay
+  <bossMusic>k__BackingField:
+    Guid:
+      Data1: -2045854340
+      Data2: 1288993717
+      Data3: -924340597
+      Data4: 2131600492
+    Path: event:/Music/mus_boss
+  <playerGunshot>k__BackingField:
+    Guid:
+      Data1: -720373460
+      Data2: 1297548761
+      Data3: -824618058
+      Data4: 521486898
+    Path: event:/Sfx/Gameplay/sfx_tiro_titica
+  <playerGunshotUpgraded>k__BackingField:
+    Guid:
+      Data1: 2076498501
+      Data2: 1200696095
+      Data3: 452403384
+      Data4: -342034302
+    Path: event:/Sfx/Gameplay/sfx_tiro_titica forte
+  <enemyGunshot>k__BackingField:
+    Guid:
+      Data1: -323125821
+      Data2: 1295829893
+      Data3: 152244405
+      Data4: 1140075626
+    Path: event:/Sfx/Gameplay/sfx_tiro1_pp
+  <bossGunshot>k__BackingField:
+    Guid:
+      Data1: -451965031
+      Data2: 1121097267
+      Data3: 951079090
+      Data4: 2059917481
+    Path: event:/Sfx/Gameplay/sfx_tiro_boss
+  <enemyGotDamaged>k__BackingField:
+    Guid:
+      Data1: 515753861
+      Data2: 1336940829
+      Data3: -1855709780
+      Data4: -1307329149
+    Path: event:/Sfx/Gameplay/sfx_attack_pruu
+  <powerups>k__BackingField:
+    Guid:
+      Data1: -1336349912
+      Data2: 1220551157
+      Data3: -1885904735
+      Data4: -1517764869
+    Path: event:/Sfx/Gameplay/sfx_power up
+  <victoryEnd>k__BackingField:
+    Guid:
+      Data1: 1543778010
+      Data2: 1147850428
+      Data3: -1360182129
+      Data4: -1447507160
+    Path: event:/Music/mus_vinheta_vitoria
+  <defeatEnd>k__BackingField:
+    Guid:
+      Data1: 65484904
+      Data2: 1250565134
+      Data3: 633529238
+      Data4: -125458875
+    Path: event:/Music/mus_vinheta_derrota
+  <menuPlay>k__BackingField:
+    Guid:
+      Data1: -1620310236
+      Data2: 1191797045
+      Data3: -794810225
+      Data4: -1456241094
+    Path: event:/Sfx/Menu/sfx_menu_confirma_play
+  <menuConfirm>k__BackingField:
+    Guid:
+      Data1: -216531414
+      Data2: 1198468552
+      Data3: -1107916118
+      Data4: -1997455472
+    Path: event:/Sfx/Menu/sfx_menu_confirma
+--- !u!114 &5494626383293342471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5494626383293342470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27d59c0ad87a11b4ba202eac1856ffaa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MusicVolume: 1
